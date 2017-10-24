@@ -1,0 +1,198 @@
+@media only screen and (max-width:470px) {
+    .globe-icon {
+        max-width: 100%;
+    }
+}
+@media (min-width: 768px) {
+    .navbar-header .menu-burger {
+        display: none;
+    }
+}
+@media (min-width: 1200px) {
+    .boxed.student .col-lg-offset-1,
+    .boxed.teacher .col-lg-offset-1{
+        margin-left: 16%;
+    }
+}
+@media only screen and (max-width:990px) {
+    .dashboard section .rating .rating-input{
+        font-size: 25px;
+    }
+    .dashboard section .rating .rating-input i {
+        margin: 0 4px;
+    }
+    .dashboard .mode-switch{
+        text-align: center;
+    }
+    .dashboard .teacher .mode-switch {
+        padding: 22px 0 0 0;
+        text-align: center;
+    }
+    .dashboard .mode-switch .switch {
+        margin: 0 10px;
+    }
+
+}
+@media only screen and (max-width:767px) {
+    .section-title{
+        margin: 0 0 10%;
+    }
+    .section-title h2{
+        font-size: 26px;
+    }
+    .navbar-brand{
+        padding: 8px!important;
+    }
+    .page-nav ul{
+        padding-left: 8px;
+        padding-right: 8px;
+    }
+    .section-language .learnt h4, .section-language .taught h4{
+        padding-right: 0;
+    }
+    .section-interests {
+        text-align: center;
+    }
+    .section-interests .tagsinput .tag {
+        display: block;
+        font-size: 12px;
+        padding: 8px 30px;
+    }
+    .section-interests h4{
+        padding-right: 0;
+        display: block;
+    }
+    .section-language .learnt h4 br, .section-language .taught h4 br {
+        display: none;
+    }
+    ul.nav.nav-text.nav-stacked {
+        min-height: 0;
+    }
+    ul.nav.navbar-nav.navbar-right {
+        display: none!important;
+    }
+    .btn-login-signup {
+        margin: 15px;
+    }
+    .dashboard section .col-sm-5{
+        border: 0;
+    }
+    .dashboard .mode-switch{
+        text-align: center;
+    }
+    .dashboard .mode-switch h1{
+        max-width: 100%;
+    }
+    footer{
+        text-align: center;
+    }
+    .footer-links{
+        margin: 10px auto;
+        text-align: center;
+    }
+    .border-box{
+        width: 100%;
+        float: none!important;
+        text-align: center;
+        border: 0!important;
+    }
+    .border-box:first-of-type{
+        border-bottom: 1px solid #ffffff!important;
+    }
+    .border-box p{
+        width: 100%;
+    }
+    .border-box img{
+        max-width: 100px;
+    }
+    #navigation-menu .btn-white{
+        background: transparent!important;
+        box-shadow: none;
+        color: #f2f2f2!important;
+    }
+    .equal-height {
+         height: auto !important;
+    }
+    .profile-brief{
+        top: 0;
+    }
+    .section-language .taught{
+        border-left: 0;
+    }
+    .profile-content{
+        margin-top: 50px;
+    }
+    .section-interests .tagsinput{
+        text-align: center;
+    }
+    .packages-page .jumbotron {
+        padding-top: 100px;
+        padding-bottom: 240px;
+    }
+    .nav > li .dropdown-toggle {
+        padding-left: 10px !important;
+    }
+    .footer-links{
+        display: block;
+        margin: 0;
+    }
+    .footer-links li{
+        border-right: 0;
+        display: block;
+        padding: 10px 0;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    }
+    footer .copyright {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+        padding-bottom: 25px;
+    }
+    .social-links{
+        margin: 0;
+    }
+    .social-links li{
+        padding: 15px 5px;
+        border: 0;
+        display: inline-block;
+    }
+    .social-links li a{
+        margin: 0 auto;
+    }
+    /*.settings-page section{*/
+        /*padding: 20% 0 10%;*/
+    /*}*/
+    /*.signup-page section {*/
+        /*padding: 20% 0 10%;*/
+    /*}*/
+    /*.signin-page section {*/
+        /*padding: 20% 0 10%;*/
+    /*}*/
+    body{
+        padding-top: 73px;
+    }
+    .call-info.connected .receiver-info{
+        display: none;
+    }
+    .discuss {
+        right: 0!important;
+        position: relative!important;
+        top: 80px!important;
+        max-width: 200px;
+        margin: 0 auto;
+        padding-bottom: 60px;
+    }
+    body > .navbar-collapse .navbar-nav{
+        background: #222a3a;
+    }
+    body > .navbar-collapse .nav > li {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .profile-brief{
+        top: 0;
+    }
+    .section-language .learnt h4, .section-language .taught h4{
+        padding-right: 0;
+    }
+}
