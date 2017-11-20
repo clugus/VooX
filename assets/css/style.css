@@ -1374,3 +1374,17 @@ Margins & Paddings
 .text-center{
     text-align: center!important;
 }
+
+.wrapper-signup{
+
+text-align:center;
+
+
+}
+
+.input-top{
+    margin-top:0px;
+    display: inline-block;
+    max-width:85%;
+
+}
